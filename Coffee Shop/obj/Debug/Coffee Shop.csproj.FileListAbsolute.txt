@@ -1,0 +1,22 @@
+E:\Arafatsql\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe.config
+E:\Arafatsql\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe
+E:\Arafatsql\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.pdb
+E:\Arafatsql\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csprojAssemblyReference.cache
+E:\Arafatsql\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Form1.resources
+E:\Arafatsql\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Properties.Resources.resources
+E:\Arafatsql\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.GenerateResource.cache
+E:\Arafatsql\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.CoreCompileInputs.cache
+E:\Arafatsql\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.exe
+E:\Arafatsql\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.pdb
+B:\Arafat_Bitm\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe.config
+B:\Arafat_Bitm\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.exe
+B:\Arafat_Bitm\Coffee Shop\Coffee Shop\bin\Debug\Coffee Shop.pdb
+B:\Arafat_Bitm\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csprojAssemblyReference.cache
+B:\Arafat_Bitm\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.item.resources
+B:\Arafat_Bitm\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.Properties.Resources.resources
+B:\Arafat_Bitm\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.GenerateResource.cache
+B:\Arafat_Bitm\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.csproj.CoreCompileInputs.cache
+B:\Arafat_Bitm\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.exe
+B:\Arafat_Bitm\Coffee Shop\Coffee Shop\obj\Debug\Coffee Shop.pdb
+B:\Arafat_Bitm\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.customer.resources
+B:\Arafat_Bitm\Coffee Shop\Coffee Shop\obj\Debug\Coffee_Shop.order.resources
